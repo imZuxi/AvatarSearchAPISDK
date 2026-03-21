@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AvatarSDK-Tests/AvatarSDK-Tests.csproj" />
+  <Project Path="AvatarSDK/AvatarSDK.csproj" />
+</Solution>
