@@ -1,6 +1,6 @@
 # AvatarSDK
 
-A .NET SDK for interacting with the [avtr.zuxi.dev](https://avtr.zuxi.dev) avatar listing API.
+A .NET SDK for interacting with the [avtr.icu](https://avtr.icu) avatar listing API. also known as Cute Avatar Search
 
 > **Note:** This README and the XML doc summaries in the source were generated with AI assistance. All SDK and test code was written by hand.
 
