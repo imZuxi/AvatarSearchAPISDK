@@ -1,6 +1,6 @@
 # AvatarSDK
 
-A .NET SDK for interacting with the [avtr.zuxi.dev](https://avtr.zuxi.dev) avatar listing API.
+A .NET SDK for interacting with the [avtr.icu](https://avtr.icu) avatar listing API. also known as Cute Avatar Search
 
 > **Note:** This README and the XML doc summaries in the source were generated with AI assistance. All SDK and test code was written by hand.
 
@@ -98,3 +98,12 @@ The test suite hits the live API to verify end-to-end behaviour:
 ```
 dotnet test AvatarSDK-Tests/AvatarSDK-Tests.csproj
 ```
+
+## Legal Disclaimer
+
+**This SDK and the avtr.icu (Cute Avatar Search) service is a independent project and is not official.**
+
+* **Non-Affiliation:** This software and the associated API are **not** affiliated with, authorized, maintained, sponsored, or endorsed by VRChat Inc.
+* **Trademarks:** "VRChat" is a registered trademark of VRChat Inc. The use of this name is strictly for identification and descriptive purposes and does not imply any association with or endorsement by the trademark holder.
+* **Compliance:** Users of this SDK are responsible for ensuring their applications comply with the VRChat Terms of Service and Community Guidelines. 
+
