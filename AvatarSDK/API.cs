@@ -8,8 +8,8 @@ namespace AvatarSDK;
 /// </summary>
 public class API : IDisposable
 {
-    private const string DefaultBaseUrl = "https://avtr.zuxi.dev";
-    private const string DefaultProxyBase = "https://avtr.zuxi.dev/proxy/";
+    private const string DefaultBaseUrl = "https://avtr.icu";
+    private const string DefaultProxyBase = "https://avtr.avtr.icu/proxy/";
     private readonly HttpClient _client;
 
     /// <summary>
