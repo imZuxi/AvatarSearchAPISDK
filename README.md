@@ -15,7 +15,7 @@ Add a reference to the `AvatarSDK` project or build it as a NuGet package and re
 ```csharp
 using AvatarSDK;
 
-using var api = new API("MyApp/1.0");
+using var api = new API("MyApp/1.0 you@example.com");
 
 // Search for avatars
 List<AvatarDoc> results = await api.SearchAsync("cute fox", Platform.Windows);
