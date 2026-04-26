@@ -8,7 +8,7 @@ A .NET SDK for interacting with the [avtr.icu](https://avtr.icu) avatar listing 
 
 ## Installation
 
-Add a reference to the `AvatarSDK` project or build it as a NuGet package and reference it in your project.
+Add a reference to the `AvatarSDK` project 
 
 ## Usage
 
